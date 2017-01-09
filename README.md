@@ -1,2 +1,2 @@
 # hello-world
-this program gives the statement "hello-world"
+this program gives us the statement "hello-world"
